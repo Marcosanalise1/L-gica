@@ -1,5 +1,6 @@
 !#/bin/bash
 
+
 echo "Atualizando os repositórios e instalando o python"
 
 #Atualização dos repositórios
